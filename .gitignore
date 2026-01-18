@@ -2,7 +2,12 @@
 .venv
 __pycache__ 
 *.pyc
+*.db
+*.sqlite3
+/migrations
 
 #Arquivos de configuração
 .env
+
+
 
