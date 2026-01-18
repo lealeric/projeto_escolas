@@ -1,0 +1,11 @@
+nome,codigo_inep,tipo_escola,latitude,longitude,num_alunos
+Escola Municipal Machado de Assis,12345678,Municipal,-23.5505,-46.6333,450
+Colégio Estadual Rui Barbosa,23456789,Estadual,-22.9068,-43.1729,800
+Instituto Federal de Educação,34567890,Federal,-15.7942,-47.8822,1200
+Escola Particular Santa Maria,45678901,Privada,-19.9167,-43.9345,300
+Escola Municipal Monteiro Lobato,56789012,Municipal,-30.0346,-51.2177,550
+Colégio Estadual Tiradentes,67890123,Estadual,-12.9714,-38.5014,950
+Escola Municipal Cecília Meireles,78901234,Municipal,-3.7172,-38.5433,400
+Colégio Adventista de Curitiba,89012345,Privada,-25.4284,-49.2733,600
+Escola Estadual Dom Pedro II,90123456,Estadual,-8.0539,-34.8811,750
+Escola Municipal Clarice Lispector,01234567,Municipal,-1.4558,-48.4902,500

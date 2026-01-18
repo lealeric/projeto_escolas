@@ -1,0 +1,8 @@
+#Arquivos do sistema
+.venv
+__pycache__ 
+*.pyc
+
+#Arquivos de configuração
+.env
+
