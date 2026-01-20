@@ -111,7 +111,7 @@ const MapComponent = () => {
     const center = defaultCenter;
 
     return (
-        <div style={{ height: '500px', width: '200%', marginTop: '20px', center: center }}>
+        <div style={{ height: '500px', width: '200%', marginTop: '20px', marginLeft: '-50%' }}>
             <MapContainer center={center} zoom={4} style={{ height: '100%', width: '100%' }}>
                 <TileLayer
                     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
