@@ -100,7 +100,6 @@ const MapComponent = () => {
         } finally {
             setLoading(false);
         }
-        // setClickedPosition(null); // Keep the marker
     };
 
     if (loading) return <div>Carregando mapa...</div>;
