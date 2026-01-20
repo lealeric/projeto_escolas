@@ -8,7 +8,7 @@ class Escola(models.Model):
     tipo_escola = models.CharField(max_length=100)
     latitude = models.DecimalField(max_digits=10, decimal_places=8)
     longitude = models.DecimalField(max_digits=11, decimal_places=8)
-    num_alunos = models.IntegerField()
+    num_alunos = models.IntegerField(blank=True, null=True)
     
     def __str__(self):
         return self.nome
